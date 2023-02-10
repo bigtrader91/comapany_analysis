@@ -1,1 +1,1 @@
-# comapany_analysis
+# company_analysis
